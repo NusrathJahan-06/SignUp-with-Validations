@@ -1,0 +1,30 @@
+h3
+{
+font-size : 50px;
+color : white;
+background-color : #399CFF;
+}
+.textbox
+{
+width : 500px;
+height : 30px;
+}
+.div1
+{
+display: table;
+margin: 100px auto 100px auto;
+padding: 30px;
+background-color : white;
+background-size: 30px 10px;
+}
+
+.button1
+{
+height : 30px;
+width : 300px;
+background-color : #399CFF ;
+}
+.label
+{
+font-size : 24px;
+}
